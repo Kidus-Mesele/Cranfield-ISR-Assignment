@@ -1,0 +1,10 @@
+Feature Coefficients
+========================================
+OkapiTF: 0.000265
+TFIDF: 0.000652
+BM25: 0.000637
+Laplace: -0.000004
+JelinekMercer: 0.000005
+ES_Builtin: -0.000727
+
+Intercept: 0.002815
