@@ -1,0 +1,32 @@
+============================================================
+HW8 - TOPIC MODELING AND CLUSTERING RESULTS
+============================================================
+
+Total documents: 37432
+Number of newsgroups: 20
+
+LDA TOPICS (Top 10 words each):
+Topic 1: turkey, army, moon, blue, green, cover, escape, adl, battery, wings
+Topic 2: people, don, think, say, does, know, just, like, make, way
+Topic 3: edu, writes, article, com, cs, university, games, uiuc, news, cc
+Topic 4: law, government, rights, state, israeli, states, right, arab, people, laws
+Topic 5: jesus, israel, christ, lord, greek, man, russian, father, son, paul
+Topic 6: ax, max, armenia, g9v, b8f, azerbaijan, a86, istanbul, holocaust, extermination
+Topic 7: com, writes, article, edu, ca, like, toronto, don, db, just
+Topic 8: gun, 000, police, car, weapons, arms, dod, bike, gas, door
+Topic 9: just, like, don, know, time, think, good, said, going, people
+Topic 10: windows, thanks, know, drive, use, edu, does, like, dos, problem
+Topic 11: 10, 00, 25, 1993, 12, 15, 11, 20, 17, 14
+Topic 12: game, year, play, win, san, baseball, homosexual, won, homosexuality, period
+Topic 13: file, edu, mail, available, information, image, program, ftp, files, software
+Topic 14: stephanopoulos, mr, pl, 145, ms, 0d, 1d9, 34u, rocket, 0t
+Topic 15: life, human, christians, people, evidence, does, problem, cause, drug, study
+Topic 16: people, jews, armenian, turkish, war, armenians, world, jewish, guns, history
+Topic 17: key, government, com, gov, nasa, public, clinton, chip, clipper, private
+Topic 18: god, bible, christian, church, fbi, faith, believe, koresh, religion, children
+Topic 19: space, use, new, team, high, used, data, power, bit, number
+Topic 20: uk, ac, encryption, __, ___, ed, virginia, _____, gm, pgp
+
+CLUSTERING EVALUATION:
+Adjusted Rand Index (ARI): 0.1138
+Normalized Mutual Info (NMI): 0.2587
