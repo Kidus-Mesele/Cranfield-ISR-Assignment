@@ -5,10 +5,6 @@ import re
 from collections import defaultdict
 import time
 
-print("=" * 50)
-print("OPTIMIZED FAST VERSION - Loading all data at once")
-print("=" * 50)
-
 # Connect to Elasticsearch
 es = Elasticsearch(["http://localhost:9200"])
 print("✓ Connected to Elasticsearch")
