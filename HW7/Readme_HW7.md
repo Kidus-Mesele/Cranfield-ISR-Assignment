@@ -16,6 +16,7 @@ This project demonstrates how machine learning can be applied to email filtering
 ## 2. Dataset
 
 This project uses a **pre-processed version** of the TREC 2007 Spam Track dataset.
+You can download it from: https://www.kaggle.com/datasets/imdeepmind/preprocessed-trec-2007-public-corpus-dataset
 
 The original raw `.eml` files were not used directly.
 
